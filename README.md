@@ -67,7 +67,7 @@ pkg install python python-pip git nano -y
 pip install aiohttp
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/hammer.git
+git clone https://github.com/Fixo123/Hummer.git
 
 # Navigate to directory
 cd hammer
