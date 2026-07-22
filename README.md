@@ -81,4 +81,18 @@ python hammer.py --help
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "✅ Installation complete!"
 echo "🚀 Run: python hammer.py http://localhost:8080 -c 50 -d 10"
-echo "🔧 Coded by Fix0 Dev — Terminal Aesthetics Division"´´´
+echo "🔧 Coded by Fix0 Dev — Terminal Aesthetics Division"/```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 Attack කරන විදිය
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$ python hummer.py http://192.168.1.100:8080 -c 100 -d 30
+
+$ python hummer.py https://example.com -c 200 -d 60
+
+$ python hummer.py http://localhost:8080 -c 50 -d 10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🔧 Coded by Fix0 Dev — Terminal Aesthetics Division
